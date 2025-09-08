@@ -19,7 +19,7 @@ This is a simple REST API for a user management dashboard application, built wit
 * Clone the repository:
 ```bash
 git clone <your-github-repo-link>
-cd user-management-api
+cd User-Management-REST-API-for-a-dashboard-application
 ```
 
 * Install dependencies:
@@ -240,4 +240,5 @@ Response:
     "success": true,
     "data": {}
 }
+
 ```
